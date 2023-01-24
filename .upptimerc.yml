@@ -3,12 +3,8 @@ owner: mikesneider # Your GitHub organization or username, where this repository
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Omnicia Inc
+    url: https://omniciainc.com
     
 assignees: # Users to assign downtime issues (optional)
   - mikesneider
